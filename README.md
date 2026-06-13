@@ -246,14 +246,5 @@ Ingredient images are uploaded using Cloudinary and stored securely for faster a
 
 ---
 
-## Author
 
-Radhika Sharma
-
-B.Tech Computer Science and Design
-
-MERN Stack Developer
-
-```
-```
 
